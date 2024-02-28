@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pedro
+Build-Jdk: 20
+Implementation-Title: ProcesarCalendario
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.batch
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/calendario
+Created-By: Maven Integration for Eclipse
+
