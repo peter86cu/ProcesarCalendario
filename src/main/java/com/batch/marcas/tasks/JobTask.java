@@ -30,7 +30,7 @@ public class JobTask {
 	@Autowired
 	private Job job;
 
-	@Scheduled(fixedDelay  = SEGUNDO)
+	@Scheduled(fixedDelay  = DIA)
 	public void executeJob() throws Exception {
 		
 		
